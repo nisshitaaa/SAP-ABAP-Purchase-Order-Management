@@ -57,7 +57,7 @@ Selection Screen → Vendor Details → Purchase Orders → Purchase Order Items
 ![Selection Screen](Selection_Screen.jpg)
 
 ### Selection Screen Input
-![Selection Screen Input](SELRCTION_SCREEN_INPUT.jpg)
+![Selection Screen Input](SELECTION_SCREEN_INPUT.jpg)
 
 
 ### ALV Output
