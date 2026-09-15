@@ -14,7 +14,7 @@ An end-to-end SAP ABAP project for vendor and purchase order management using st
 - Global ABAP class with multiple methods
 - DDIC table types for internal table handling
 - ALV Grid display with field catalog and sorting
-- BAPI_PO_GETDETAIL integration
+- BAPI_PO_GETDETAIL implementation and testing
 - Selection screen with vendor, purchase order and date filters
 - No-data handling and success messages
 
