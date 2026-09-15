@@ -1,0 +1,38 @@
+SAP ABAP PROJECT – CUSTOM OBJECTS
+
+Package:
+ZPROJECTNSS
+Description: End-to-End Procurement Management System
+
+REPORT:
+ZVENDORPROJECT_DISPLAY
+Description: End-to-End Procurement and Purchase Order Management System
+
+GLOBAL CLASS:
+ZCL_VENDOR_PROJECT
+Description: Vendor Project Global Class
+
+CUSTOM TRANSPARENT TABLE:
+ZVENDORPROJECT
+Description: Vendor table for project
+
+DDIC TABLE TYPES:
+
+ZTT_EKKO
+Line Type: EKKO
+Description: EKKO Internal Table Type
+
+ZTT_EKPO16
+Line Type: EKPO
+Description: EKPO Internal Table Type
+
+ZTT_BAPI_PO_ITEMS
+Line Type: BAPIEKPO
+Description: BAPI PO Items Table Type
+
+STANDARD SAP TABLES USED:
+
+LFA1  - Vendor Master
+EKKO  - Purchase Order Header
+EKPO  - Purchase Order Items
+MAKT  - Material Description
